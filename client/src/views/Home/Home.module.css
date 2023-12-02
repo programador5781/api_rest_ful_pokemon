@@ -1,0 +1,26 @@
+.containerHome {
+    background-image: url("https://i.postimg.cc/FKJ943jY/bgMain.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Esta línea fija la imagen de fondo */
+}
+
+
+/* Estilos para las tarjetas (Cards) */
+.card {
+    /* Ajustar el tamaño de las tarjetas aquí */
+    width: 100px; /* Ancho deseado */
+    height: 150px; /* Alto deseado */
+    /* Otros estilos como margen, borde, etc. si es necesario */
+  }
+
+  .input {
+    margin-top: 60px;
+    margin-left: 30px;
+    border-radius: 5px;
+  }
+
+  .btn {
+    margin-left: 5px;
+    border-radius: 5px;
+  }

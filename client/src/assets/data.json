@@ -1,0 +1,1994 @@
+[
+	{
+		"name": "bulbasaur",
+		"id": 1,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+		"hit_points": 45,
+		"attack": 49,
+		"defense": 49,
+		"speed": 45,
+		"height": 7,
+		"weight": 69,
+		"created": false
+	},
+	{
+		"name": "ivysaur",
+		"id": 2,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
+		"hit_points": 60,
+		"attack": 62,
+		"defense": 63,
+		"speed": 60,
+		"height": 10,
+		"weight": 130,
+		"created": false
+	},
+	{
+		"name": "venusaur",
+		"id": 3,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
+		"hit_points": 80,
+		"attack": 82,
+		"defense": 83,
+		"speed": 80,
+		"height": 20,
+		"weight": 1000,
+		"created": false
+	},
+	{
+		"name": "charmander",
+		"id": 4,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+		"hit_points": 39,
+		"attack": 52,
+		"defense": 43,
+		"speed": 65,
+		"height": 6,
+		"weight": 85,
+		"created": false
+	},
+	{
+		"name": "charmeleon",
+		"id": 5,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
+		"hit_points": 58,
+		"attack": 64,
+		"defense": 58,
+		"speed": 80,
+		"height": 11,
+		"weight": 190,
+		"created": false
+	},
+	{
+		"name": "charizard",
+		"id": 6,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+		"hit_points": 78,
+		"attack": 84,
+		"defense": 78,
+		"speed": 100,
+		"height": 17,
+		"weight": 905,
+		"created": false
+	},
+	{
+		"name": "squirtle",
+		"id": 7,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+		"hit_points": 44,
+		"attack": 48,
+		"defense": 65,
+		"speed": 43,
+		"height": 5,
+		"weight": 90,
+		"created": false
+	},
+	{
+		"name": "wartortle",
+		"id": 8,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png",
+		"hit_points": 59,
+		"attack": 63,
+		"defense": 80,
+		"speed": 58,
+		"height": 10,
+		"weight": 225,
+		"created": false
+	},
+	{
+		"name": "blastoise",
+		"id": 9,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+		"hit_points": 79,
+		"attack": 83,
+		"defense": 100,
+		"speed": 78,
+		"height": 16,
+		"weight": 855,
+		"created": false
+	},
+	{
+		"name": "caterpie",
+		"id": 10,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
+		"hit_points": 45,
+		"attack": 30,
+		"defense": 35,
+		"speed": 45,
+		"height": 3,
+		"weight": 29,
+		"created": false
+	},
+	{
+		"name": "metapod",
+		"id": 11,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/11.png",
+		"hit_points": 50,
+		"attack": 20,
+		"defense": 55,
+		"speed": 30,
+		"height": 7,
+		"weight": 99,
+		"created": false
+	},
+	{
+		"name": "butterfree",
+		"id": 12,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/12.png",
+		"hit_points": 60,
+		"attack": 45,
+		"defense": 50,
+		"speed": 70,
+		"height": 11,
+		"weight": 320,
+		"created": false
+	},
+	{
+		"name": "weedle",
+		"id": 13,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
+		"hit_points": 40,
+		"attack": 35,
+		"defense": 30,
+		"speed": 50,
+		"height": 3,
+		"weight": 32,
+		"created": false
+	},
+	{
+		"name": "kakuna",
+		"id": 14,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
+		"hit_points": 45,
+		"attack": 25,
+		"defense": 50,
+		"speed": 35,
+		"height": 6,
+		"weight": 100,
+		"created": false
+	},
+	{
+		"name": "beedrill",
+		"id": 15,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
+		"hit_points": 65,
+		"attack": 90,
+		"defense": 40,
+		"speed": 75,
+		"height": 10,
+		"weight": 295,
+		"created": false
+	},
+	{
+		"name": "pidgey",
+		"id": 16,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/16.png",
+		"hit_points": 40,
+		"attack": 45,
+		"defense": 40,
+		"speed": 56,
+		"height": 3,
+		"weight": 18,
+		"created": false
+	},
+	{
+		"name": "pidgeotto",
+		"id": 17,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/17.png",
+		"hit_points": 63,
+		"attack": 60,
+		"defense": 55,
+		"speed": 71,
+		"height": 11,
+		"weight": 300,
+		"created": false
+	},
+	{
+		"name": "pidgeot",
+		"id": 18,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+		"hit_points": 83,
+		"attack": 80,
+		"defense": 75,
+		"speed": 101,
+		"height": 15,
+		"weight": 395,
+		"created": false
+	},
+	{
+		"name": "rattata",
+		"id": 19,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+		"hit_points": 30,
+		"attack": 56,
+		"defense": 35,
+		"speed": 72,
+		"height": 3,
+		"weight": 35,
+		"created": false
+	},
+	{
+		"name": "raticate",
+		"id": 20,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/20.png",
+		"hit_points": 55,
+		"attack": 81,
+		"defense": 60,
+		"speed": 97,
+		"height": 7,
+		"weight": 185,
+		"created": false
+	},
+	{
+		"name": "spearow",
+		"id": 21,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/21.png",
+		"hit_points": 40,
+		"attack": 60,
+		"defense": 30,
+		"speed": 70,
+		"height": 3,
+		"weight": 20,
+		"created": false
+	},
+	{
+		"name": "fearow",
+		"id": 22,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/22.png",
+		"hit_points": 65,
+		"attack": 90,
+		"defense": 65,
+		"speed": 100,
+		"height": 12,
+		"weight": 380,
+		"created": false
+	},
+	{
+		"name": "ekans",
+		"id": 23,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/23.png",
+		"hit_points": 35,
+		"attack": 60,
+		"defense": 44,
+		"speed": 55,
+		"height": 20,
+		"weight": 69,
+		"created": false
+	},
+	{
+		"name": "arbok",
+		"id": 24,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/24.png",
+		"hit_points": 60,
+		"attack": 95,
+		"defense": 69,
+		"speed": 80,
+		"height": 35,
+		"weight": 650,
+		"created": false
+	},
+	{
+		"name": "pikachu",
+		"id": 25,
+		"types": [
+			{
+				"name": "electric",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+		"hit_points": 35,
+		"attack": 55,
+		"defense": 40,
+		"speed": 90,
+		"height": 4,
+		"weight": 60,
+		"created": false
+	},
+	{
+		"name": "raichu",
+		"id": 26,
+		"types": [
+			{
+				"name": "electric",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/26.png",
+		"hit_points": 60,
+		"attack": 90,
+		"defense": 55,
+		"speed": 110,
+		"height": 8,
+		"weight": 300,
+		"created": false
+	},
+	{
+		"name": "sandshrew",
+		"id": 27,
+		"types": [
+			{
+				"name": "ground",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/27.png",
+		"hit_points": 50,
+		"attack": 75,
+		"defense": 85,
+		"speed": 40,
+		"height": 6,
+		"weight": 120,
+		"created": false
+	},
+	{
+		"name": "sandslash",
+		"id": 28,
+		"types": [
+			{
+				"name": "ground",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/28.png",
+		"hit_points": 75,
+		"attack": 100,
+		"defense": 110,
+		"speed": 65,
+		"height": 10,
+		"weight": 295,
+		"created": false
+	},
+	{
+		"name": "nidoran-f",
+		"id": 29,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/29.png",
+		"hit_points": 55,
+		"attack": 47,
+		"defense": 52,
+		"speed": 41,
+		"height": 4,
+		"weight": 70,
+		"created": false
+	},
+	{
+		"name": "nidorina",
+		"id": 30,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/30.png",
+		"hit_points": 70,
+		"attack": 62,
+		"defense": 67,
+		"speed": 56,
+		"height": 8,
+		"weight": 200,
+		"created": false
+	},
+	{
+		"name": "nidoqueen",
+		"id": 31,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			},
+			{
+				"name": "ground",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/31.png",
+		"hit_points": 90,
+		"attack": 92,
+		"defense": 87,
+		"speed": 76,
+		"height": 13,
+		"weight": 600,
+		"created": false
+	},
+	{
+		"name": "nidoran-m",
+		"id": 32,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/32.png",
+		"hit_points": 46,
+		"attack": 57,
+		"defense": 40,
+		"speed": 50,
+		"height": 5,
+		"weight": 90,
+		"created": false
+	},
+	{
+		"name": "nidorino",
+		"id": 33,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/33.png",
+		"hit_points": 61,
+		"attack": 72,
+		"defense": 57,
+		"speed": 65,
+		"height": 9,
+		"weight": 195,
+		"created": false
+	},
+	{
+		"name": "nidoking",
+		"id": 34,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			},
+			{
+				"name": "ground",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/34.png",
+		"hit_points": 81,
+		"attack": 102,
+		"defense": 77,
+		"speed": 85,
+		"height": 14,
+		"weight": 620,
+		"created": false
+	},
+	{
+		"name": "clefairy",
+		"id": 35,
+		"types": [
+			{
+				"name": "fairy",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/35.png",
+		"hit_points": 70,
+		"attack": 45,
+		"defense": 48,
+		"speed": 35,
+		"height": 6,
+		"weight": 75,
+		"created": false
+	},
+	{
+		"name": "clefable",
+		"id": 36,
+		"types": [
+			{
+				"name": "fairy",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/36.png",
+		"hit_points": 95,
+		"attack": 70,
+		"defense": 73,
+		"speed": 60,
+		"height": 13,
+		"weight": 400,
+		"created": false
+	},
+	{
+		"name": "vulpix",
+		"id": 37,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/37.png",
+		"hit_points": 38,
+		"attack": 41,
+		"defense": 40,
+		"speed": 65,
+		"height": 6,
+		"weight": 99,
+		"created": false
+	},
+	{
+		"name": "ninetales",
+		"id": 38,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/38.png",
+		"hit_points": 73,
+		"attack": 76,
+		"defense": 75,
+		"speed": 100,
+		"height": 11,
+		"weight": 199,
+		"created": false
+	},
+	{
+		"name": "jigglypuff",
+		"id": 39,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "fairy",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/39.png",
+		"hit_points": 115,
+		"attack": 45,
+		"defense": 20,
+		"speed": 20,
+		"height": 5,
+		"weight": 55,
+		"created": false
+	},
+	{
+		"name": "wigglytuff",
+		"id": 40,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "fairy",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/40.png",
+		"hit_points": 140,
+		"attack": 70,
+		"defense": 45,
+		"speed": 45,
+		"height": 10,
+		"weight": 120,
+		"created": false
+	},
+	{
+		"name": "zubat",
+		"id": 41,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/41.png",
+		"hit_points": 40,
+		"attack": 45,
+		"defense": 35,
+		"speed": 55,
+		"height": 8,
+		"weight": 75,
+		"created": false
+	},
+	{
+		"name": "golbat",
+		"id": 42,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/42.png",
+		"hit_points": 75,
+		"attack": 80,
+		"defense": 70,
+		"speed": 90,
+		"height": 16,
+		"weight": 550,
+		"created": false
+	},
+	{
+		"name": "oddish",
+		"id": 43,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/43.png",
+		"hit_points": 45,
+		"attack": 50,
+		"defense": 55,
+		"speed": 30,
+		"height": 5,
+		"weight": 54,
+		"created": false
+	},
+	{
+		"name": "gloom",
+		"id": 44,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/44.png",
+		"hit_points": 60,
+		"attack": 65,
+		"defense": 70,
+		"speed": 40,
+		"height": 8,
+		"weight": 86,
+		"created": false
+	},
+	{
+		"name": "vileplume",
+		"id": 45,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/45.png",
+		"hit_points": 75,
+		"attack": 80,
+		"defense": 85,
+		"speed": 50,
+		"height": 12,
+		"weight": 186,
+		"created": false
+	},
+	{
+		"name": "paras",
+		"id": 46,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			},
+			{
+				"name": "grass",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/46.png",
+		"hit_points": 35,
+		"attack": 70,
+		"defense": 55,
+		"speed": 25,
+		"height": 3,
+		"weight": 54,
+		"created": false
+	},
+	{
+		"name": "parasect",
+		"id": 47,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			},
+			{
+				"name": "grass",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/47.png",
+		"hit_points": 60,
+		"attack": 95,
+		"defense": 80,
+		"speed": 30,
+		"height": 10,
+		"weight": 295,
+		"created": false
+	},
+	{
+		"name": "venonat",
+		"id": 48,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/48.png",
+		"hit_points": 60,
+		"attack": 55,
+		"defense": 50,
+		"speed": 45,
+		"height": 10,
+		"weight": 300,
+		"created": false
+	},
+	{
+		"name": "venomoth",
+		"id": 49,
+		"types": [
+			{
+				"name": "bug",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/49.png",
+		"hit_points": 70,
+		"attack": 65,
+		"defense": 60,
+		"speed": 90,
+		"height": 15,
+		"weight": 125,
+		"created": false
+	},
+	{
+		"name": "diglett",
+		"id": 50,
+		"types": [
+			{
+				"name": "ground",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/50.png",
+		"hit_points": 10,
+		"attack": 55,
+		"defense": 25,
+		"speed": 95,
+		"height": 2,
+		"weight": 8,
+		"created": false
+	},
+	{
+		"name": "dugtrio",
+		"id": 51,
+		"types": [
+			{
+				"name": "ground",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/51.png",
+		"hit_points": 35,
+		"attack": 100,
+		"defense": 50,
+		"speed": 120,
+		"height": 7,
+		"weight": 333,
+		"created": false
+	},
+	{
+		"name": "meowth",
+		"id": 52,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/52.png",
+		"hit_points": 40,
+		"attack": 45,
+		"defense": 35,
+		"speed": 90,
+		"height": 4,
+		"weight": 42,
+		"created": false
+	},
+	{
+		"name": "persian",
+		"id": 53,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/53.png",
+		"hit_points": 65,
+		"attack": 70,
+		"defense": 60,
+		"speed": 115,
+		"height": 10,
+		"weight": 320,
+		"created": false
+	},
+	{
+		"name": "psyduck",
+		"id": 54,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/54.png",
+		"hit_points": 50,
+		"attack": 52,
+		"defense": 48,
+		"speed": 55,
+		"height": 8,
+		"weight": 196,
+		"created": false
+	},
+	{
+		"name": "golduck",
+		"id": 55,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/55.png",
+		"hit_points": 80,
+		"attack": 82,
+		"defense": 78,
+		"speed": 85,
+		"height": 17,
+		"weight": 766,
+		"created": false
+	},
+	{
+		"name": "mankey",
+		"id": 56,
+		"types": [
+			{
+				"name": "fighting",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/56.png",
+		"hit_points": 40,
+		"attack": 80,
+		"defense": 35,
+		"speed": 70,
+		"height": 5,
+		"weight": 280,
+		"created": false
+	},
+	{
+		"name": "primeape",
+		"id": 57,
+		"types": [
+			{
+				"name": "fighting",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/57.png",
+		"hit_points": 65,
+		"attack": 105,
+		"defense": 60,
+		"speed": 95,
+		"height": 10,
+		"weight": 320,
+		"created": false
+	},
+	{
+		"name": "growlithe",
+		"id": 58,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/58.png",
+		"hit_points": 55,
+		"attack": 70,
+		"defense": 45,
+		"speed": 60,
+		"height": 7,
+		"weight": 190,
+		"created": false
+	},
+	{
+		"name": "arcanine",
+		"id": 59,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/59.png",
+		"hit_points": 90,
+		"attack": 110,
+		"defense": 80,
+		"speed": 95,
+		"height": 19,
+		"weight": 1550,
+		"created": false
+	},
+	{
+		"name": "poliwag",
+		"id": 60,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/60.png",
+		"hit_points": 40,
+		"attack": 50,
+		"defense": 40,
+		"speed": 90,
+		"height": 6,
+		"weight": 124,
+		"created": false
+	},
+	{
+		"name": "poliwhirl",
+		"id": 61,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/61.png",
+		"hit_points": 65,
+		"attack": 65,
+		"defense": 65,
+		"speed": 90,
+		"height": 10,
+		"weight": 200,
+		"created": false
+	},
+	{
+		"name": "poliwrath",
+		"id": 62,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			},
+			{
+				"name": "fighting",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/62.png",
+		"hit_points": 90,
+		"attack": 95,
+		"defense": 95,
+		"speed": 70,
+		"height": 13,
+		"weight": 540,
+		"created": false
+	},
+	{
+		"name": "abra",
+		"id": 63,
+		"types": [
+			{
+				"name": "psychic",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/63.png",
+		"hit_points": 25,
+		"attack": 20,
+		"defense": 15,
+		"speed": 90,
+		"height": 9,
+		"weight": 195,
+		"created": false
+	},
+	{
+		"name": "kadabra",
+		"id": 64,
+		"types": [
+			{
+				"name": "psychic",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/64.png",
+		"hit_points": 40,
+		"attack": 35,
+		"defense": 30,
+		"speed": 105,
+		"height": 13,
+		"weight": 565,
+		"created": false
+	},
+	{
+		"name": "alakazam",
+		"id": 65,
+		"types": [
+			{
+				"name": "psychic",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/65.png",
+		"hit_points": 55,
+		"attack": 50,
+		"defense": 45,
+		"speed": 120,
+		"height": 15,
+		"weight": 480,
+		"created": false
+	},
+	{
+		"name": "machop",
+		"id": 66,
+		"types": [
+			{
+				"name": "fighting",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/66.png",
+		"hit_points": 70,
+		"attack": 80,
+		"defense": 50,
+		"speed": 35,
+		"height": 8,
+		"weight": 195,
+		"created": false
+	},
+	{
+		"name": "machoke",
+		"id": 67,
+		"types": [
+			{
+				"name": "fighting",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/67.png",
+		"hit_points": 80,
+		"attack": 100,
+		"defense": 70,
+		"speed": 45,
+		"height": 15,
+		"weight": 705,
+		"created": false
+	},
+	{
+		"name": "machamp",
+		"id": 68,
+		"types": [
+			{
+				"name": "fighting",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/68.png",
+		"hit_points": 90,
+		"attack": 130,
+		"defense": 80,
+		"speed": 55,
+		"height": 16,
+		"weight": 1300,
+		"created": false
+	},
+	{
+		"name": "bellsprout",
+		"id": 69,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/69.png",
+		"hit_points": 50,
+		"attack": 75,
+		"defense": 35,
+		"speed": 40,
+		"height": 7,
+		"weight": 40,
+		"created": false
+	},
+	{
+		"name": "weepinbell",
+		"id": 70,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/70.png",
+		"hit_points": 65,
+		"attack": 90,
+		"defense": 50,
+		"speed": 55,
+		"height": 10,
+		"weight": 64,
+		"created": false
+	},
+	{
+		"name": "victreebel",
+		"id": 71,
+		"types": [
+			{
+				"name": "grass",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/71.png",
+		"hit_points": 80,
+		"attack": 105,
+		"defense": 65,
+		"speed": 70,
+		"height": 17,
+		"weight": 155,
+		"created": false
+	},
+	{
+		"name": "tentacool",
+		"id": 72,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/72.png",
+		"hit_points": 40,
+		"attack": 40,
+		"defense": 35,
+		"speed": 70,
+		"height": 9,
+		"weight": 455,
+		"created": false
+	},
+	{
+		"name": "tentacruel",
+		"id": 73,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/73.png",
+		"hit_points": 80,
+		"attack": 70,
+		"defense": 65,
+		"speed": 100,
+		"height": 16,
+		"weight": 550,
+		"created": false
+	},
+	{
+		"name": "geodude",
+		"id": 74,
+		"types": [
+			{
+				"name": "rock",
+				"id": 1
+			},
+			{
+				"name": "ground",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/74.png",
+		"hit_points": 40,
+		"attack": 80,
+		"defense": 100,
+		"speed": 20,
+		"height": 4,
+		"weight": 200,
+		"created": false
+	},
+	{
+		"name": "graveler",
+		"id": 75,
+		"types": [
+			{
+				"name": "rock",
+				"id": 1
+			},
+			{
+				"name": "ground",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/75.png",
+		"hit_points": 55,
+		"attack": 95,
+		"defense": 115,
+		"speed": 35,
+		"height": 10,
+		"weight": 1050,
+		"created": false
+	},
+	{
+		"name": "golem",
+		"id": 76,
+		"types": [
+			{
+				"name": "rock",
+				"id": 1
+			},
+			{
+				"name": "ground",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/76.png",
+		"hit_points": 80,
+		"attack": 120,
+		"defense": 130,
+		"speed": 45,
+		"height": 14,
+		"weight": 3000,
+		"created": false
+	},
+	{
+		"name": "ponyta",
+		"id": 77,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/77.png",
+		"hit_points": 50,
+		"attack": 85,
+		"defense": 55,
+		"speed": 90,
+		"height": 10,
+		"weight": 300,
+		"created": false
+	},
+	{
+		"name": "rapidash",
+		"id": 78,
+		"types": [
+			{
+				"name": "fire",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/78.png",
+		"hit_points": 65,
+		"attack": 100,
+		"defense": 70,
+		"speed": 105,
+		"height": 17,
+		"weight": 950,
+		"created": false
+	},
+	{
+		"name": "slowpoke",
+		"id": 79,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			},
+			{
+				"name": "psychic",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/79.png",
+		"hit_points": 90,
+		"attack": 65,
+		"defense": 65,
+		"speed": 15,
+		"height": 12,
+		"weight": 360,
+		"created": false
+	},
+	{
+		"name": "slowbro",
+		"id": 80,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			},
+			{
+				"name": "psychic",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/80.png",
+		"hit_points": 95,
+		"attack": 75,
+		"defense": 110,
+		"speed": 30,
+		"height": 16,
+		"weight": 785,
+		"created": false
+	},
+	{
+		"name": "magnemite",
+		"id": 81,
+		"types": [
+			{
+				"name": "electric",
+				"id": 1
+			},
+			{
+				"name": "steel",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/81.png",
+		"hit_points": 25,
+		"attack": 35,
+		"defense": 70,
+		"speed": 45,
+		"height": 3,
+		"weight": 60,
+		"created": false
+	},
+	{
+		"name": "magneton",
+		"id": 82,
+		"types": [
+			{
+				"name": "electric",
+				"id": 1
+			},
+			{
+				"name": "steel",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/82.png",
+		"hit_points": 50,
+		"attack": 60,
+		"defense": 95,
+		"speed": 70,
+		"height": 10,
+		"weight": 600,
+		"created": false
+	},
+	{
+		"name": "farfetchd",
+		"id": 83,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/83.png",
+		"hit_points": 52,
+		"attack": 90,
+		"defense": 55,
+		"speed": 60,
+		"height": 8,
+		"weight": 150,
+		"created": false
+	},
+	{
+		"name": "doduo",
+		"id": 84,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/84.png",
+		"hit_points": 35,
+		"attack": 85,
+		"defense": 45,
+		"speed": 75,
+		"height": 14,
+		"weight": 392,
+		"created": false
+	},
+	{
+		"name": "dodrio",
+		"id": 85,
+		"types": [
+			{
+				"name": "normal",
+				"id": 1
+			},
+			{
+				"name": "flying",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/85.png",
+		"hit_points": 60,
+		"attack": 110,
+		"defense": 70,
+		"speed": 110,
+		"height": 18,
+		"weight": 852,
+		"created": false
+	},
+	{
+		"name": "seel",
+		"id": 86,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/86.png",
+		"hit_points": 65,
+		"attack": 45,
+		"defense": 55,
+		"speed": 45,
+		"height": 11,
+		"weight": 900,
+		"created": false
+	},
+	{
+		"name": "dewgong",
+		"id": 87,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			},
+			{
+				"name": "ice",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/87.png",
+		"hit_points": 90,
+		"attack": 70,
+		"defense": 80,
+		"speed": 70,
+		"height": 17,
+		"weight": 1200,
+		"created": false
+	},
+	{
+		"name": "grimer",
+		"id": 88,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/88.png",
+		"hit_points": 80,
+		"attack": 80,
+		"defense": 50,
+		"speed": 25,
+		"height": 9,
+		"weight": 300,
+		"created": false
+	},
+	{
+		"name": "muk",
+		"id": 89,
+		"types": [
+			{
+				"name": "poison",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/89.png",
+		"hit_points": 105,
+		"attack": 105,
+		"defense": 75,
+		"speed": 50,
+		"height": 12,
+		"weight": 300,
+		"created": false
+	},
+	{
+		"name": "shellder",
+		"id": 90,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/90.png",
+		"hit_points": 30,
+		"attack": 65,
+		"defense": 100,
+		"speed": 40,
+		"height": 3,
+		"weight": 40,
+		"created": false
+	},
+	{
+		"name": "cloyster",
+		"id": 91,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			},
+			{
+				"name": "ice",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/91.png",
+		"hit_points": 50,
+		"attack": 95,
+		"defense": 180,
+		"speed": 70,
+		"height": 15,
+		"weight": 1325,
+		"created": false
+	},
+	{
+		"name": "gastly",
+		"id": 92,
+		"types": [
+			{
+				"name": "ghost",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/92.png",
+		"hit_points": 30,
+		"attack": 35,
+		"defense": 30,
+		"speed": 80,
+		"height": 13,
+		"weight": 1,
+		"created": false
+	},
+	{
+		"name": "haunter",
+		"id": 93,
+		"types": [
+			{
+				"name": "ghost",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/93.png",
+		"hit_points": 45,
+		"attack": 50,
+		"defense": 45,
+		"speed": 95,
+		"height": 16,
+		"weight": 1,
+		"created": false
+	},
+	{
+		"name": "gengar",
+		"id": 94,
+		"types": [
+			{
+				"name": "ghost",
+				"id": 1
+			},
+			{
+				"name": "poison",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/94.png",
+		"hit_points": 60,
+		"attack": 65,
+		"defense": 60,
+		"speed": 110,
+		"height": 15,
+		"weight": 405,
+		"created": false
+	},
+	{
+		"name": "onix",
+		"id": 95,
+		"types": [
+			{
+				"name": "rock",
+				"id": 1
+			},
+			{
+				"name": "ground",
+				"id": 2
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/95.png",
+		"hit_points": 35,
+		"attack": 45,
+		"defense": 160,
+		"speed": 70,
+		"height": 88,
+		"weight": 2100,
+		"created": false
+	},
+	{
+		"name": "drowzee",
+		"id": 96,
+		"types": [
+			{
+				"name": "psychic",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/96.png",
+		"hit_points": 60,
+		"attack": 48,
+		"defense": 45,
+		"speed": 42,
+		"height": 10,
+		"weight": 324,
+		"created": false
+	},
+	{
+		"name": "hypno",
+		"id": 97,
+		"types": [
+			{
+				"name": "psychic",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/97.png",
+		"hit_points": 85,
+		"attack": 73,
+		"defense": 70,
+		"speed": 67,
+		"height": 16,
+		"weight": 756,
+		"created": false
+	},
+	{
+		"name": "krabby",
+		"id": 98,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/98.png",
+		"hit_points": 30,
+		"attack": 105,
+		"defense": 90,
+		"speed": 50,
+		"height": 4,
+		"weight": 65,
+		"created": false
+	},
+	{
+		"name": "kingler",
+		"id": 99,
+		"types": [
+			{
+				"name": "water",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/99.png",
+		"hit_points": 55,
+		"attack": 130,
+		"defense": 115,
+		"speed": 75,
+		"height": 13,
+		"weight": 600,
+		"created": false
+	},
+	{
+		"name": "voltorb",
+		"id": 100,
+		"types": [
+			{
+				"name": "electric",
+				"id": 1
+			}
+		],
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/100.png",
+		"hit_points": 40,
+		"attack": 30,
+		"defense": 50,
+		"speed": 100,
+		"height": 5,
+		"weight": 104,
+		"created": false
+	}
+]
